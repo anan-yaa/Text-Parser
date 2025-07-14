@@ -1,0 +1,8 @@
+tk
+pdfplumber
+PyPDF2
+latex2mathml
+pylatexenc
+pyresparser
+spacy
+nltk
